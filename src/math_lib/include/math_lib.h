@@ -69,4 +69,7 @@ namespace MathLib
 
     // Function to search GCD
     int GCD(int a, int b);
+
+    //Function to search the factorial
+    int factorial(int n);
 }
