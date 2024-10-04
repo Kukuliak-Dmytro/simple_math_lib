@@ -16,5 +16,6 @@ int main(int argc, char* argv[])
     std::cout << "Least common multiple(4,6): " << leastCommonMultiple(4,6) << std::endl;
     std::cout << "Factorial(5): " << factorial(5) << std::endl;
 
+
     return 0;
 }
